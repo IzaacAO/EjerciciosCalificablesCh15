@@ -1,7 +1,4 @@
 
-
-
-
 function calcularPrecioConIva(precio) {
   const iva = 0.19;
   const precioConIva = precio + (precio * iva);
